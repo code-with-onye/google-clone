@@ -49,6 +49,7 @@ export default function Home() {
           src="https://www.google.co.uk/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"
           height={100}
           width={300}
+          alt="logo"
         />
         <div className="flex items-center w-full max-w-md px-5 py-3 mt-5 border border-gray-200 rounded-full hover:shadow-lg focus-within:shadow-lg sm:max-w-xl lg:max-w-2xl">
           <SearchIcon className="h-5 mr-3 text-gray-500" />
