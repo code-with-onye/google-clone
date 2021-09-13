@@ -44,8 +44,16 @@ git@2.17.1 or higher
 
 
 ```bash
-node@v10.16.0 or higher
-npm@6.9.0 or higher
-git@2.17.1 or higher
+# Clone this repository
+git clone https://github.com/saadpasta/developerFolio.git
+
+# Go into the repository
+cd developerFolio
+
+# Install dependencies
+npm install
+
+# Start a local dev server
+npm start
 ```
  
