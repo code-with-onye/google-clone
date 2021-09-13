@@ -6,6 +6,9 @@ DEMO
 https://google-clone-code-with-onye.vercel.app/
 
 <h1><b>Table of Contents</b></h1>
+<ul>
+  <li><a> Sections</a></li>
+</ul>
 ## Getting Started
 
 First, run the development server:
