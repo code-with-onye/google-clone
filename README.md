@@ -41,6 +41,16 @@ git@2.17.1 or higher
   <p> From your command line, clone and run google-clone:</p>
  
 </div>
+ ```bash
+# Clone this repository
+https://github.com/code-with-onye/google-clone.git
+
+# Go into the repository
+cd developerFolio
+
+# Start a local dev server
+npm run dev or yarn run dev
+```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
