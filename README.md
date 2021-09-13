@@ -8,7 +8,14 @@ https://google-clone-code-with-onye.vercel.app/
 <h1><b>Table of Contents</b></h1>
 <ul>
   <li><a href="#Section"> Sections</a></li>
+  <li><a href="#getStarted"> Getting Started</a></li>
+   <li><a href="#HowToUse"> How To Use</a></li>
+   <li><a href="#deploy"> Deployment</a></li>
+    <li><a href="#techUse">Technologies Used</a></li>
 </ul>
+<div id="Section">
+  <h2><b> Google Clone Section</b></h2>
+</div>
 ## Getting Started
 
 First, run the development server:
