@@ -41,14 +41,9 @@ git@2.17.1 or higher
   <p> From your command line, clone and run google-clone:</p>
  
 </div>
- ```bash
-# Clone this repository
-https://github.com/code-with-onye/google-clone.git
-
-# Go into the repository
-cd developerFolio
-
-# Start a local dev server
-npm run dev or yarn run dev
+```bash
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
 ```
-
+ 
