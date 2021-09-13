@@ -19,6 +19,7 @@ https://google-clone-code-with-onye.vercel.app/
   ✔️ Search box<br>
   ✔️ Footer<br>
   ✔️ Search Page <br>
+  To view live example  <a href="https://google-clone-code-with-onye.vercel.app/">click here</a>
 </div>
 ## Getting Started
 
