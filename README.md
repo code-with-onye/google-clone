@@ -15,10 +15,10 @@ https://google-clone-code-with-onye.vercel.app/
 </ul>
 <div id="Section">
   <h2><b> Google Clone Section</b></h2>
-  ✔️ Header
-  ✔️ Search box
-  ✔️ Footer
-  ✔️ Search Page 
+  ✔️ Header <br>
+  ✔️ Search box<br>
+  ✔️ Footer<br>
+  ✔️ Search Page <br>
 </div>
 ## Getting Started
 
