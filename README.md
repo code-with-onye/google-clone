@@ -21,7 +21,15 @@ https://google-clone-code-with-onye.vercel.app/
   ✔️ Search Page <br>
   To view live example  <a href="https://google-clone-code-with-onye.vercel.app/">click here</a>
 </div>
-## Getting Started
+
+<div id="getStarted"> 
+  <h2><b>Getting Started</b></h2>
+  <p>These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. <br>
+    You'll need <a href="https://git-scm.com/">Git</a> and <a href="https://nodejs.org/en/download/">Node.js</a> (which comes with <a href="https://www.npmjs.com/">npm</a>) installed on your computer.
+  </p>
+  
+</div>
+ 
 
 First, run the development server:
 
