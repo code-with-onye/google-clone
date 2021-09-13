@@ -30,16 +30,27 @@ https://google-clone-code-with-onye.vercel.app/
   
 </div>
  
-
-First, run the development server:
-
 ```bash
-npm run dev
-# or
-yarn dev![Google-clone](https://user-images.githubusercontent.com/85189857/133093696-dc962973-d528-46e6-91f2-e04a51c0ba72.PNG)
-
+node@v10.16.0 or higher
+npm@6.9.0 or higher
+git@2.17.1 or higher
 ```
 
+<div id="HowToUse">
+  <h2><b>How To Use</b></h2>
+  <p> From your command line, clone and run google-clone:</p>
+ 
+</div>
+ ```bash
+# Clone this repository
+https://github.com/code-with-onye/google-clone.git
+
+# Go into the repository
+cd developerFolio
+
+# Start a local dev server
+npm run dev or yarn run dev
+```
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
