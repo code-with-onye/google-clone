@@ -1,6 +1,8 @@
 <b><h1>A clean, beautiful and responsive Google clone website build with React(Nextjs)!</h1> </b>
 
 ![Google-clone](https://user-images.githubusercontent.com/85189857/133093754-6e384151-3e7d-42a6-86f5-bb33c5648465.PNG)
+![resp](https://user-images.githubusercontent.com/85189857/133094551-8944116d-ec5c-42b2-9483-29c3cebf05d8.PNG)
+
 
 
 DEMO 
