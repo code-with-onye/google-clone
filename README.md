@@ -1,4 +1,7 @@
-<b><h1>A clean, beautiful and responsive portfolio template for Developers!</h1> </b>
+<b><h1>A clean, beautiful and responsive Google clone website build with React(Nextjs)!</h1> </b>
+
+![Google-clone](https://user-images.githubusercontent.com/85189857/133093754-6e384151-3e7d-42a6-86f5-bb33c5648465.PNG)
+
 
 DEMO 
 https://google-clone-code-with-onye.vercel.app/
@@ -10,7 +13,8 @@ First, run the development server:
 ```bash
 npm run dev
 # or
-yarn dev
+yarn dev![Google-clone](https://user-images.githubusercontent.com/85189857/133093696-dc962973-d528-46e6-91f2-e04a51c0ba72.PNG)
+
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
