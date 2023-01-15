@@ -54,6 +54,6 @@ cd developerFolio
 npm install
 
 # Start a local dev server
-npm start
+npm sta
 ```
  
